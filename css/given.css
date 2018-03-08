@@ -1,0 +1,883 @@
+.Nav {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 2118px;
+  z-index: 103;
+}
+.burger_menu {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 2118px;
+  z-index: 102;
+}
+.Layer_28 {
+  background-image: url("Layer 28.png");
+  position: absolute;
+  left: 1339px;
+  top: 53px;
+  width: 45px;
+  height: 5px;
+  z-index: 101;
+}
+.Layer_29_copy {
+  background-image: url("Layer 29 copy.png");
+  position: absolute;
+  left: 1339px;
+  top: 34px;
+  width: 45px;
+  height: 5px;
+  z-index: 100;
+}
+.Layer_29 {
+  background-image: url("Layer 29.png");
+  position: absolute;
+  left: 1339px;
+  top: 44px;
+  width: 45px;
+  height: 5px;
+  z-index: 99;
+}
+
+.Hero {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 2118px;
+  z-index: 96;
+}
+.Logo {
+  background-image: url("Logo.png");
+  position: absolute;
+  left: 213px;
+  top: 37px;
+  width: 168px;
+  height: 75px;
+  z-index: 95;
+}
+.Latest_News {
+  font-size: 82px;
+  font-family: "PTSerif";
+  color: rgb(255, 255, 255);
+  line-height: 1.195;
+  text-align: center;
+  position: absolute;
+  left: 579.937px;
+  top: 206.505px;
+  z-index: 94;
+}
+.Layer_43 {
+  background-image: url("Layer 43.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 873px;
+  z-index: 93;
+}
+.Layer_21_copy {
+  background-image: url("Layer 21 copy.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 476px;
+  z-index: 92;
+}
+
+.Body {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 2118px;
+  z-index: 90;
+}
+.post_1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 2118px;
+  z-index: 89;
+}
+.Layer_46 {
+  background-image: url("Layer 46.png");
+  position: absolute;
+  left: 213px;
+  top: 621px;
+  width: 382px;
+  height: 191px;
+  z-index: 86;
+}
+.Rectangle_17 {
+  background-color: rgb(59, 77, 87);
+  position: absolute;
+  left: 240px;
+  top: 635px;
+  width: 322px;
+  height: 169px;
+  z-index: 85;
+}
+.John_Doe___l___Feb_21__2018 {
+  font-size: 14.029px;
+  font-family: "Roboto";
+  color: rgb(169, 66, 25);
+  line-height: 1.929;
+  text-align: center;
+  -moz-transform: matrix( 1.00001423628469,0,0,0.97622077892345,0,0);
+  -webkit-transform: matrix( 1.00001423628469,0,0,0.97622077892345,0,0);
+  -ms-transform: matrix( 1.00001423628469,0,0,0.97622077892345,0,0);
+  position: absolute;
+  left: 215.573px;
+  top: 868.786px;
+  width: 153.429px;
+  height: 11.99px;
+  z-index: 84;
+}
+.Game_of_Thrones_season_8_news:_Shock_developmen {
+  font-size: 15.878px;
+  font-family: "HelveticaNeue";
+  color: rgb(54, 66, 74);
+  line-height: 1.375;
+  text-align: center;
+  -moz-transform: matrix( 1.00023325712042,0,0,1.00767229301488,0,0);
+  -webkit-transform: matrix( 1.00023325712042,0,0,1.00767229301488,0,0);
+  -ms-transform: matrix( 1.00023325712042,0,0,1.00767229301488,0,0);
+  position: absolute;
+  left: 289.784px;
+  top: 893.249px;
+  z-index: 83;
+}
+.Rectangle_4_copy_5 {
+  background-color: rgb(0, 133, 203);
+  box-shadow: 0px 0px 18px 0px rgba(1, 1, 1, 0.05);
+  position: absolute;
+  left: 216px;
+  top: 613px;
+  width: 371px;
+  height: 380px;
+  z-index: 82;
+}
+.post2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 2118px;
+  z-index: 80;
+}
+.Layer_47 {
+  background-image: url("Layer 47.png");
+  position: absolute;
+  left: 638px;
+  top: 635px;
+  width: 328px;
+  height: 185px;
+  z-index: 79;
+}
+.Rectangle_17_copy {
+  background-color: rgb(59, 77, 87);
+  position: absolute;
+  left: 639px;
+  top: 635px;
+  width: 322px;
+  height: 169px;
+  z-index: 78;
+}
+.George_May___l___Feb_2__2018 {
+  font-size: 14.029px;
+  font-family: "Roboto";
+  color: rgb(169, 66, 25);
+  line-height: 1.929;
+  text-align: center;
+  -moz-transform: matrix( 1.00001423628469,0,0,0.97622077892345,0,0);
+  -webkit-transform: matrix( 1.00001423628469,0,0,0.97622077892345,0,0);
+  -ms-transform: matrix( 1.00001423628469,0,0,0.97622077892345,0,0);
+  position: absolute;
+  left: 614.6px;
+  top: 868.813px;
+  width: 160.663px;
+  height: 12.936px;
+  z-index: 77;
+}
+._Game_of_Thrones__Theory:_Did_Littlefinger_chea {
+  font-size: 15.878px;
+  font-family: "HelveticaNeue";
+  color: rgb(54, 66, 74);
+  line-height: 1.375;
+  text-align: center;
+  -moz-transform: matrix( 1.00023325712042,0,0,1.00767229301488,0,0);
+  -webkit-transform: matrix( 1.00023325712042,0,0,1.00767229301488,0,0);
+  -ms-transform: matrix( 1.00023325712042,0,0,1.00767229301488,0,0);
+  position: absolute;
+  left: 703.257px;
+  top: 893.165px;
+  z-index: 76;
+}
+.Rectangle_4_copy_6 {
+  background-color: rgb(0, 133, 203);
+  box-shadow: 0px 0px 18px 0px rgba(1, 1, 1, 0.05);
+  position: absolute;
+  left: 615px;
+  top: 613px;
+  width: 371px;
+  height: 380px;
+  z-index: 75;
+}
+.post_3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 2118px;
+  z-index: 73;
+}
+.Spoiler_Alert {
+  font-size: 14.029px;
+  font-family: "Roboto";
+  color: rgb(255, 255, 255);
+  line-height: 1.929;
+  position: absolute;
+  left: 1026.134px;
+  top: 675.765px;
+  z-index: 72;
+}
+.Rectangle_18 {
+  background-color: rgb(169, 66, 25);
+  position: absolute;
+  left: 1013px;
+  top: 648px;
+  width: 104px;
+  height: 31px;
+  z-index: 71;
+}
+.Layer_49 {
+  background-image: url("Layer 49.png");
+  position: absolute;
+  left: 1022px;
+  top: 631px;
+  width: 340px;
+  height: 190px;
+  z-index: 70;
+}
+.Rectangle_17_copy_2 {
+  background-color: rgb(59, 77, 87);
+  position: absolute;
+  left: 1038px;
+  top: 635px;
+  width: 322px;
+  height: 169px;
+  z-index: 69;
+}
+.George_May___l___Dec_19__2017 {
+  font-size: 14.029px;
+  font-family: "Roboto";
+  color: rgb(169, 66, 25);
+  line-height: 1.929;
+  text-align: center;
+  -moz-transform: matrix( 1.00001423628469,0,0,0.97622077892345,0,0);
+  -webkit-transform: matrix( 1.00001423628469,0,0,0.97622077892345,0,0);
+  -ms-transform: matrix( 1.00001423628469,0,0,0.97622077892345,0,0);
+  position: absolute;
+  left: 1013.632px;
+  top: 868.813px;
+  width: 169.241px;
+  height: 12.936px;
+  z-index: 68;
+}
+.Maisie_Williams_knows_how__Game_of_Thrones__ends {
+  font-size: 15.878px;
+  font-family: "HelveticaNeue";
+  color: rgb(54, 66, 74);
+  line-height: 1.375;
+  text-align: center;
+  -moz-transform: matrix( 1.00023325712042,0,0,1.00767229301488,0,0);
+  -webkit-transform: matrix( 1.00023325712042,0,0,1.00767229301488,0,0);
+  -ms-transform: matrix( 1.00023325712042,0,0,1.00767229301488,0,0);
+  position: absolute;
+  left: 1106.877px;
+  top: 893.149px;
+  z-index: 67;
+}
+.Rectangle_4_copy_7 {
+  background-color: rgb(0, 133, 203);
+  box-shadow: 0px 0px 18px 0px rgba(1, 1, 1, 0.05);
+  position: absolute;
+  left: 1014px;
+  top: 613px;
+  width: 371px;
+  height: 380px;
+  z-index: 66;
+}
+.post_4__hover_state_ {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 2118px;
+  z-index: 64;
+}
+.Layer_55 {
+  background-image: url("Layer 55.png");
+  position: absolute;
+  left: 439px;
+  top: 1305px;
+  width: 19px;
+  height: 24px;
+  z-index: 63;
+}
+.Read_More {
+  font-size: 13.008px;
+  font-family: "Roboto";
+  color: rgb(255, 255, 255);
+  line-height: 1.845;
+  text-align: center;
+  -moz-transform: matrix( 1.0009728209608,0,0,0.99858417111645,0,0);
+  -webkit-transform: matrix( 1.0009728209608,0,0,0.99858417111645,0,0);
+  -ms-transform: matrix( 1.0009728209608,0,0,0.99858417111645,0,0);
+  position: absolute;
+  left: 256.4px;
+  top: 1316.081px;
+  width: 59.209px;
+  height: 9.939px;
+  z-index: 62;
+}
+.Rectangle_13_copy_8 {
+  background-color: rgba(219, 170, 100, 0);
+  position: absolute;
+  left: 342px;
+  top: 1280px;
+  width: 116px;
+  height: 37px;
+  z-index: 61;
+}
+.The_most_recent_season_of_Game_of_Thrones_left_ {
+  font-size: 12px;
+  font-family: "HelveticaNeue";
+  color: rgb(255, 255, 255);
+  line-height: 1.5;
+  text-align: center;
+  -moz-transform: matrix( 1,0,0,0.99920716018725,0,0);
+  -webkit-transform: matrix( 1,0,0,0.99920716018725,0,0);
+  -ms-transform: matrix( 1,0,0,0.99920716018725,0,0);
+  position: absolute;
+  left: 262.718px;
+  top: 1189.43px;
+  width: 270.624px;
+  height: 81.124px;
+  z-index: 60;
+}
+.This_Game_of_Thrones_Theory_Exposes_the_Night_K {
+  font-size: 15.878px;
+  font-family: "HelveticaNeue";
+  color: rgb(255, 255, 255);
+  line-height: 1.375;
+  text-align: center;
+  -moz-transform: matrix( 1.00023325712042,0,0,1.00687337030277,0,0);
+  -webkit-transform: matrix( 1.00023325712042,0,0,1.00687337030277,0,0);
+  -ms-transform: matrix( 1.00023325712042,0,0,1.00687337030277,0,0);
+  position: absolute;
+  left: 290.752px;
+  top: 1111.233px;
+  z-index: 59;
+}
+.Rectangle_4_copy_8 {
+  background-color: rgb(0, 133, 203);
+  box-shadow: 0px 0px 18px 0px rgba(1, 1, 1, 0.05);
+  position: absolute;
+  left: 216px;
+  top: 1016px;
+  width: 371px;
+  height: 380px;
+  z-index: 58;
+}
+.post_5 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 2118px;
+  z-index: 56;
+}
+.Layer_50 {
+  background-image: url("Layer 50.png");
+  position: absolute;
+  left: 635px;
+  top: 1030px;
+  width: 399px;
+  height: 200px;
+  z-index: 53;
+}
+.Rectangle_17_copy_3 {
+  background-color: rgb(59, 77, 87);
+  position: absolute;
+  left: 639px;
+  top: 1038px;
+  width: 322px;
+  height: 169px;
+  z-index: 52;
+}
+.Jane_Johnson___l___Nov_3__2017 {
+  font-size: 14.029px;
+  font-family: "Roboto";
+  color: rgb(169, 66, 25);
+  line-height: 1.929;
+  text-align: center;
+  -moz-transform: matrix( 1.00001423628469,0,0,0.97622077892345,0,0);
+  -webkit-transform: matrix( 1.00001423628469,0,0,0.97622077892345,0,0);
+  -ms-transform: matrix( 1.00001423628469,0,0,0.97622077892345,0,0);
+  position: absolute;
+  left: 614.604px;
+  top: 1271.786px;
+  width: 172.445px;
+  height: 11.99px;
+  z-index: 51;
+}
+.Everything_You_Need_to_Know_About_Game_of_Thron {
+  font-size: 15.878px;
+  font-family: "HelveticaNeue";
+  color: rgb(54, 66, 74);
+  line-height: 1.375;
+  text-align: center;
+  -moz-transform: matrix( 1.00023325712042,0,0,1.00767229301488,0,0);
+  -webkit-transform: matrix( 1.00023325712042,0,0,1.00767229301488,0,0);
+  -ms-transform: matrix( 1.00023325712042,0,0,1.00767229301488,0,0);
+  position: absolute;
+  left: 687.729px;
+  top: 1296.149px;
+  z-index: 50;
+}
+.Rectangle_4_copy_8 {
+  background-color: rgb(0, 133, 203);
+  box-shadow: 0px 0px 18px 0px rgba(1, 1, 1, 0.05);
+  position: absolute;
+  left: 615px;
+  top: 1016px;
+  width: 371px;
+  height: 380px;
+  z-index: 49;
+}
+.Post_6 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 2118px;
+  z-index: 47;
+}
+.Layer_51 {
+  background-image: url("Layer 51.png");
+  position: absolute;
+  left: 992px;
+  top: 1036px;
+  width: 377px;
+  height: 177px;
+  z-index: 46;
+}
+.Rectangle_17_copy_3 {
+  background-color: rgb(59, 77, 87);
+  position: absolute;
+  left: 1038px;
+  top: 1038px;
+  width: 322px;
+  height: 169px;
+  z-index: 45;
+}
+.John_Doe___l___Oct_29__2017 {
+  font-size: 14.029px;
+  font-family: "Roboto";
+  color: rgb(169, 66, 25);
+  line-height: 1.929;
+  text-align: center;
+  -moz-transform: matrix( 1.00001423628469,0,0,0.97622077892345,0,0);
+  -webkit-transform: matrix( 1.00001423628469,0,0,0.97622077892345,0,0);
+  -ms-transform: matrix( 1.00001423628469,0,0,0.97622077892345,0,0);
+  position: absolute;
+  left: 1014.104px;
+  top: 1271.786px;
+  width: 152.79px;
+  height: 11.99px;
+  z-index: 44;
+}
+.Game_of_Thrones_was_the_most_pirated_TV_show_la {
+  font-size: 15.878px;
+  font-family: "HelveticaNeue";
+  color: rgb(54, 66, 74);
+  line-height: 1.375;
+  text-align: center;
+  -moz-transform: matrix( 1.00023325712042,0,0,1.00767229301488,0,0);
+  -webkit-transform: matrix( 1.00023325712042,0,0,1.00767229301488,0,0);
+  -ms-transform: matrix( 1.00023325712042,0,0,1.00767229301488,0,0);
+  position: absolute;
+  left: 1094.356px;
+  top: 1295.987px;
+  z-index: 43;
+}
+.Rectangle_4_copy_8 {
+  background-color: rgb(0, 133, 203);
+  box-shadow: 0px 0px 18px 0px rgba(1, 1, 1, 0.05);
+  position: absolute;
+  left: 1014px;
+  top: 1016px;
+  width: 371px;
+  height: 380px;
+  z-index: 42;
+}
+.post_7 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 2118px;
+  z-index: 40;
+}
+.Layer_52 {
+  background-image: url("Layer 52.png");
+  position: absolute;
+  left: 216px;
+  top: 1422px;
+  width: 354px;
+  height: 200px;
+  z-index: 39;
+}
+.Rectangle_17_copy_4 {
+  background-color: rgb(59, 77, 87);
+  position: absolute;
+  left: 240px;
+  top: 1443px;
+  width: 322px;
+  height: 169px;
+  z-index: 38;
+}
+.Sam_Wilson___l___Nov_15__1532 {
+  font-size: 14.029px;
+  font-family: "Roboto";
+  color: rgb(169, 66, 25);
+  line-height: 1.929;
+  text-align: center;
+  -moz-transform: matrix( 1.00001423628469,0,0,0.97622077892345,0,0);
+  -webkit-transform: matrix( 1.00001423628469,0,0,0.97622077892345,0,0);
+  -ms-transform: matrix( 1.00001423628469,0,0,0.97622077892345,0,0);
+  position: absolute;
+  left: 216.086px;
+  top: 1676.786px;
+  width: 165.962px;
+  height: 11.99px;
+  z-index: 37;
+}
+._Game_of_Thrones_:_Every_Dead_Character__Ranked {
+  font-size: 15.878px;
+  font-family: "HelveticaNeue";
+  color: rgb(54, 66, 74);
+  line-height: 1.375;
+  text-align: center;
+  -moz-transform: matrix( 1.00023325712042,0,0,1.00767229301488,0,0);
+  -webkit-transform: matrix( 1.00023325712042,0,0,1.00767229301488,0,0);
+  -ms-transform: matrix( 1.00023325712042,0,0,1.00767229301488,0,0);
+  position: absolute;
+  left: 298.582px;
+  top: 1701.101px;
+  z-index: 36;
+}
+.Rectangle_4_copy_9 {
+  background-color: rgb(0, 133, 203);
+  box-shadow: 0px 0px 18px 0px rgba(1, 1, 1, 0.05);
+  position: absolute;
+  left: 216px;
+  top: 1421px;
+  width: 371px;
+  height: 380px;
+  z-index: 35;
+}
+.post_8 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 2118px;
+  z-index: 33;
+}
+.Must_Read_copy {
+  font-size: 14.029px;
+  font-family: "Roboto";
+  color: rgb(255, 255, 255);
+  line-height: 1.929;
+  position: absolute;
+  left: 628.844px;
+  top: 1457.469px;
+  z-index: 32;
+}
+.Rectangle_18_copy_3 {
+  background-color: rgb(0, 164, 83);
+  position: absolute;
+  left: 615px;
+  top: 1456px;
+  width: 95px;
+  height: 31px;
+  z-index: 31;
+}
+.Layer_53 {
+  background-image: url("Layer 53.png");
+  position: absolute;
+  left: 616px;
+  top: 1442px;
+  width: 351px;
+  height: 184px;
+  z-index: 30;
+}
+.Rectangle_17_copy_4 {
+  background-color: rgb(59, 77, 87);
+  position: absolute;
+  left: 639px;
+  top: 1443px;
+  width: 322px;
+  height: 169px;
+  z-index: 29;
+}
+.Tammy_Smith___l___Oct_4__2017 {
+  font-size: 14.029px;
+  font-family: "Roboto";
+  color: rgb(169, 66, 25);
+  line-height: 1.929;
+  text-align: center;
+  -moz-transform: matrix( 1.00001423628469,0,0,0.97622077892345,0,0);
+  -webkit-transform: matrix( 1.00001423628469,0,0,0.97622077892345,0,0);
+  -ms-transform: matrix( 1.00001423628469,0,0,0.97622077892345,0,0);
+  position: absolute;
+  left: 614.569px;
+  top: 1676.823px;
+  width: 170.201px;
+  height: 12.917px;
+  z-index: 28;
+}
+.New__Game_of_Thrones__Information_Proves_Season {
+  font-size: 15.878px;
+  font-family: "HelveticaNeue";
+  color: rgb(54, 66, 74);
+  line-height: 1.375;
+  text-align: center;
+  -moz-transform: matrix( 1.00023325712042,0,0,1.00767229301488,0,0);
+  -webkit-transform: matrix( 1.00023325712042,0,0,1.00767229301488,0,0);
+  -ms-transform: matrix( 1.00023325712042,0,0,1.00767229301488,0,0);
+  position: absolute;
+  left: 696.795px;
+  top: 1701.071px;
+  z-index: 27;
+}
+.Rectangle_4_copy_9 {
+  background-color: rgb(0, 133, 203);
+  box-shadow: 0px 0px 18px 0px rgba(1, 1, 1, 0.05);
+  position: absolute;
+  left: 615px;
+  top: 1421px;
+  width: 371px;
+  height: 380px;
+  z-index: 26;
+}
+.post_9 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 2118px;
+  z-index: 24;
+}
+.Layer_54 {
+  background-image: url("Layer 54.png");
+  position: absolute;
+  left: 984px;
+  top: 1437px;
+  width: 442px;
+  height: 219px;
+  z-index: 21;
+}
+.Rectangle_17_copy_4 {
+  background-color: rgb(59, 77, 87);
+  position: absolute;
+  left: 1038px;
+  top: 1443px;
+  width: 322px;
+  height: 169px;
+  z-index: 20;
+}
+.Georgia_Samuels___l___Sept_17__2017 {
+  font-size: 14.029px;
+  font-family: "Roboto";
+  color: rgb(169, 66, 25);
+  line-height: 1.929;
+  text-align: center;
+  -moz-transform: matrix( 1.00001423628469,0,0,0.97622077892345,0,0);
+  -webkit-transform: matrix( 1.00001423628469,0,0,0.97622077892345,0,0);
+  -ms-transform: matrix( 1.00001423628469,0,0,0.97622077892345,0,0);
+  position: absolute;
+  left: 1013.631px;
+  top: 1676.813px;
+  width: 201.38px;
+  height: 12.936px;
+  z-index: 19;
+}
+.This_Tiny_Game_of_Thrones_Detail_May_Have_Fores {
+  font-size: 15.878px;
+  font-family: "HelveticaNeue";
+  color: rgb(54, 66, 74);
+  line-height: 1.375;
+  text-align: center;
+  -moz-transform: matrix( 1.00023325712042,0,0,1.00767229301488,0,0);
+  -webkit-transform: matrix( 1.00023325712042,0,0,1.00767229301488,0,0);
+  -ms-transform: matrix( 1.00023325712042,0,0,1.00767229301488,0,0);
+  position: absolute;
+  left: 1077.123px;
+  top: 1701.249px;
+  z-index: 18;
+}
+.Rectangle_4_copy_9 {
+  background-color: rgb(0, 133, 203);
+  box-shadow: 0px 0px 18px 0px rgba(1, 1, 1, 0.05);
+  position: absolute;
+  left: 1014px;
+  top: 1421px;
+  width: 371px;
+  height: 380px;
+  z-index: 17;
+}
+
+
+
+.Footer {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 2118px;
+  z-index: 14;
+}
+.Layer_42_copy {
+  background-image: url("Layer 42 copy.png");
+  position: absolute;
+  left: 213px;
+  top: 1971px;
+  width: 127px;
+  height: 57px;
+  z-index: 13;
+}
+.HOME_____Reviews_____NEWS_____theories_____BLOG {
+  font-size: 15px;
+  font-family: "Roboto";
+  color: rgb(254, 254, 254);
+  text-transform: uppercase;
+  line-height: 4;
+  text-align: center;
+  -moz-transform: matrix( 1.00021650753175,0,0,0.99937651660674,0,0);
+  -webkit-transform: matrix( 1.00021650753175,0,0,0.99937651660674,0,0);
+  -ms-transform: matrix( 1.00021650753175,0,0,0.99937651660674,0,0);
+  position: absolute;
+  left: 575.483px;
+  top: 1976.5px;
+  z-index: 12;
+}
+.Become_a_member {
+  font-size: 15px;
+  font-family: "Roboto";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 1.6;
+  text-align: center;
+  -moz-transform: matrix( 1.00021650753175,0,0,0.99937651660674,0,0);
+  -webkit-transform: matrix( 1.00021650753175,0,0,0.99937651660674,0,0);
+  -ms-transform: matrix( 1.00021650753175,0,0,0.99937651660674,0,0);
+  position: absolute;
+  left: 1143.497px;
+  top: 2021.946px;
+  width: 138.203px;
+  height: 10.875px;
+  z-index: 11;
+}
+.Rectangle_13_copy_7 {
+  border-style: solid;
+  border-width: 3px;
+  border-color: rgb(80, 175, 199);
+  background-color: rgba(37, 75, 154, 0);
+  position: absolute;
+  left: 1190px;
+  top: 1982px;
+  width: 190px;
+  height: 39px;
+  z-index: 10;
+}
+.Unomena {
+  font-size: 13px;
+  font-family: "GothamHTF";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 3.692;
+  text-align: center;
+  position: absolute;
+  left: 1307.937px;
+  top: 2062.002px;
+  z-index: 9;
+}
+.Site_built_by_ {
+  font-size: 13px;
+  font-family: "Roboto";
+  color: rgb(255, 255, 255);
+  line-height: 3.692;
+  text-align: center;
+  position: absolute;
+  left: 1231.12px;
+  top: 2109.559px;
+  z-index: 8;
+}
+.©_Copyright_2018_GoT__All_rights_reserved____ {
+  font-size: 13px;
+  font-family: "Roboto";
+  color: rgb(255, 255, 255);
+  line-height: 3.692;
+  text-align: left;
+  position: absolute;
+  left: 210.937px;
+  top: 2110.559px;
+  z-index: 7;
+}
+.Rectangle_16 {
+  background-color: rgb(37, 75, 154);
+  position: absolute;
+  left: -55px;
+  top: 1908px;
+  width: 1674px;
+  height: 210px;
+  z-index: 6;
+}
+
+
+.Background {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 2118px;
+  z-index: 4;
+}
+.Rectangle_18_copy {
+  background-color: rgb(155, 155, 155);
+  opacity: 0.6;
+  position: absolute;
+  left: -157px;
+  top: 68px;
+  width: 1782px;
+  height: 1840px;
+  z-index: 3;
+}
+.Rectangle_11 {
+  background-color: rgb(42, 137, 196);
+  position: absolute;
+  left: -65px;
+  top: -189px;
+  width: 1785px;
+  height: 2176px;
+  z-index: 2;
+}
